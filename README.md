@@ -1,18 +1,3 @@
 # flutter_photo_picker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_photo_picker
-# flutter_photo_picker
+![flutter photo picker file 1](https://user-images.githubusercontent.com/52483128/209227366-b5d17ea0-edce-4701-bb08-e6e87ac13e72.png)
+![flutter photo picker file 2](https://user-images.githubusercontent.com/52483128/209227394-8eeedec3-1c88-467f-a233-6ebf4dfad9d2.png)
